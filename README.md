@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurubala8223" alt="gurubala8223" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/myselfgurubala" target="blank"><img src="https://img.shields.io/twitter/follow/myselfgurubala?logo=twitter&style=for-the-badge" alt="myselfgurubala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/myself_gurubala" target="blank"><img src="https://img.shields.io/twitter/follow/myselfgurubala?logo=twitter&style=for-the-badge" alt="myself_gurubala" /></a> </p>
 
 - 📫 How to reach me **gajulapalligurusrisaireddy@gmail.com**
 
